@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{background-color: black;}
+header{
+    background-image: url(../img/jumbo.png);
+    background-color: #2357d7;
+   display: flex;
+   flex-direction: row;
+   text-align: center;
+   align-items: center;
+   padding: 2rem 11rem;
+}
+#logo-top{
+   padding: 0% 8% 2% 0%;
+   justify-content: flex-start;
+   
+}
+#top{
+    color: white;
+    width: 80rem;
+    height: 4rem;
+   
+}
+.button-white{
+    color: #3c382d;
+    border-radius: 2rem;
+    padding: 10px;
+    width: 75px;
+    border-collapse: collapse;
+    background-color: white;
+   
+}
+a {
+    margin: 3% 2%;
+}
+
+
