@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 } 
 header{
     background-color: #2558d8;
@@ -73,4 +74,47 @@ header{
 .bottom .button-black{
 height: 2rem;
 width: 12rem;
+}
+
+.informazioni{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 6rem 15rem 0rem 40rem;
+}
+.informazioni div{
+    padding: 0rem 6rem;
+   
+}
+.informazioni h2{
+    font-size: 2rem;
+    padding-bottom: 1rem;
+}
+.informazioni-2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 6rem 15rem 0rem 20rem;   
+}
+
+.informazioni-2 h2{
+    font-size: 2rem;
+    padding-bottom: 0rem;
+}
+.informazioni-2 span{
+    padding: 0rem 22rem 10rem 10rem;
+}
+
+.informazioni-3{
+    padding: 6rem;
+    text-align: center;
+}
+.informazioni-3 h2{
+    padding-bottom: 2rem;
+    font-size: 2rem;
+}
+.informazioni-3 p{
+    padding: 0rem 0rem 3rem 0rem;
+
+    
 }
