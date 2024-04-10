@@ -118,3 +118,79 @@ width: 12rem;
 
     
 }
+.informazioni-3 h3{
+    font-size: 2rem;
+    padding: 4rem;
+}
+.button-blue{
+    border: 0px;
+    border-radius: 3rem;
+    background-color:#7289da ;
+    color: white;
+
+}
+
+.informazioni-3 button{
+    height: 2rem;
+    width: 9rem;
+}
+footer{
+    background-color:#23272a ;
+}
+.footer-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+.footer-top div{
+    padding: 3.5rem 0rem 0rem 7rem;
+    
+}
+.footer-top h3{
+    font-size: 1.5rem;
+    color:#7189da ;
+    padding-bottom: 1rem;
+}
+.footer-top p{
+    padding-bottom: 1rem;
+    color: white;
+}
+
+.footer-top ul{
+    list-style-type: none;
+    padding: 3rem 6rem 0rem 0rem;
+    color: white;
+}
+
+.footer-top h4{
+    color:#7189da ;
+}
+.footer-top li{
+ padding-top: 1rem;
+}
+
+.footer-bottom{
+    margin: 3rem 6.5rem 0rem 7rem;
+   
+
+    
+}
+.footer-bottom hr{
+    color: #4f5d8c;
+
+
+}
+.footer-bottom p{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem 0rem 6rem 0rem;
+
+    
+}
+.footer-bottom button{
+    width: 5rem;
+    height: 2rem;
+}
